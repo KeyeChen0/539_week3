@@ -1,0 +1,35 @@
+body {
+    background-color: #d1fcff; 
+    color: #000000; 
+    font-family: 'Open', sans-serif; 
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 28px; 
+    font-family: 'Calibri', sans-serif; 
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: 20px; 
+    font-family: 'Verdana', sans-serif; 
+    color: #336699; 
+}
+
+p {
+    line-height: 1.8; 
+}
+
+img {
+    border: 5px solid #ff9900; 
+    padding: 10px;
+    margin: 20px; 
+    border-top-right-radius: 30px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+}
